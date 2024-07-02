@@ -1,2 +1,16 @@
 # LLM-Survey
-LLM Survey
+
+[TOC]
+
+## LLM 微调方法
+
+- PEFT
+- LoRA
+- DeepSpeed
+- vLLM
+
+## LLM 显存用量
+
+ [专题：爱鼓捣AI排行榜](https://techdiylife.github.io/blog/topic.html?category2=t08&blogid=0058)
+
+![image-20240702162608772](D:\Desktop\image-20240702162608772.png)
